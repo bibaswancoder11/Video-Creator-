@@ -1,0 +1,6 @@
+{
+  "name": "Video Creator",
+  "description": "A responsive, high-fidelity video composition studio featuring timeline controls, transitions, text overlay animations, and multi-track audio control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
